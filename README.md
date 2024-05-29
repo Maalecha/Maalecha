@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maalecha
+- 👋 Hi, I’m Valeriia
 - 👀 I’m interested in neurobiology
 - 🌱 I’m currently studying Front End Development 
 - 💞️ I'm passionate about projects that are giving back to the community
